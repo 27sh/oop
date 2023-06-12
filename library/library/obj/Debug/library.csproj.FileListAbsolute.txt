@@ -1,0 +1,13 @@
+C:\Users\USER\source\repos\library\library\bin\Debug\library.exe.config
+C:\Users\USER\source\repos\library\library\bin\Debug\library.exe
+C:\Users\USER\source\repos\library\library\bin\Debug\library.pdb
+C:\Users\USER\source\repos\library\library\obj\Debug\library.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\library\library\obj\Debug\library.csproj.SuggestedBindingRedirects.cache
+C:\Users\USER\source\repos\library\library\obj\Debug\library.Form1.resources
+C:\Users\USER\source\repos\library\library\obj\Debug\library.Properties.Resources.resources
+C:\Users\USER\source\repos\library\library\obj\Debug\library.csproj.GenerateResource.cache
+C:\Users\USER\source\repos\library\library\obj\Debug\library.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\library\library\obj\Debug\library.exe
+C:\Users\USER\source\repos\library\library\obj\Debug\library.pdb
+C:\Users\USER\source\repos\library\library\obj\Debug\library.Form2.resources
+C:\Users\USER\source\repos\library\library\obj\Debug\library.Form3.resources
